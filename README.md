@@ -12,12 +12,12 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/rafaelq80/portfolio-react-native?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/rafaelq80/portfolio-react-native?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/rafaelq80/portfolio-react-native?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/rafaelq80/portfolio-react-native?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/rafaelq80/portfolio-react-native?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/rafaelq80/portfolio-react-native?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/rafaelq80/carros-react-native?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/rafaelq80/carros-react-native?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/rafaelq80/carros-react-native?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/rafaelq80/carros-react-native?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/rafaelq80/carros-react-native?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/rafaelq80/carros-react-native?style=flat-square" />
   <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" alt="Status: Concluído">
 </div>
 
@@ -84,8 +84,8 @@ npm install expo-cli@latest
 ### Clonando o repositório
 
 ```bash
-git clone https://github.com/rafaelq80/portfolio-react-native
-cd portfolio-react-native
+git clone https://github.com/rafaelq80/carros-react-native
+cd carros-react-native
 ```
 
 ### Instalando as dependências
